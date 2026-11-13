@@ -19,3 +19,5 @@ def never_return_5(first_comp, last_comp):
 
 count_var = never_return_5(first_comp, last_comp)
 print(f"Amount of numbers that don't have a 5 in them: {count_var}")
+
+# This is a lab 3 about inputing and counting number that dont have a 5
